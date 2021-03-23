@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Fortnite Console\Fortnite Console\bin\Debug\Fortnite Console.exe.config
+C:\Users\Alex\source\repos\Fortnite Console\Fortnite Console\bin\Debug\Fortnite Console.exe
+C:\Users\Alex\source\repos\Fortnite Console\Fortnite Console\bin\Debug\Fortnite Console.pdb
+C:\Users\Alex\source\repos\Fortnite Console\Fortnite Console\obj\Debug\Fortnite Console.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Fortnite Console\Fortnite Console\obj\Debug\Fortnite Console.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Fortnite Console\Fortnite Console\obj\Debug\Fortnite Console.exe
+C:\Users\Alex\source\repos\Fortnite Console\Fortnite Console\obj\Debug\Fortnite Console.pdb
